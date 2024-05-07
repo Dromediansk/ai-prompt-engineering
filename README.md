@@ -7,6 +7,7 @@ This repository contains several Python projects, all of which are built using A
 - [Image Compression](image-compression/main.py)
 - [PDF Merger](pdf-merger/main.py)
 - [Snake Game](snake-game/main.py)
+- [Tic-Tac-Toe](tic-tac-toe/main.py)
 
 ## Running the Projects
 
