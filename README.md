@@ -8,6 +8,7 @@ This repository contains several Python projects, all of which are built using A
 - [PDF Merger](pdf-merger/main.py)
 - [Snake Game](snake-game/main.py)
 - [Tic-Tac-Toe](tic-tac-toe/main.py)
+- [Fire Calculator](fire-calculator/main.py)
 
 ## Running the Projects
 
